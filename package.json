@@ -1,0 +1,9 @@
+{
+  "name": "nuxibase",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18",
+    "nuxt": "^3.6.1"
+  }
+}
